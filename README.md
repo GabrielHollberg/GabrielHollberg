@@ -1,4 +1,4 @@
-Hi, I’m @GabrielHollberg, I’m currently learning C++ and web development. I'm excited to learn more languages and to become a professional software developer!!
+Hi, I’m @GabrielHollberg, I'm a Computer Science major at Brigham Young University learning C, C++, Java, and Python!
 
 gthollberg@gmail.com
 
