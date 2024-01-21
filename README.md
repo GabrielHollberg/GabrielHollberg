@@ -1,4 +1,4 @@
-Hi, I’m @GabrielHollberg, I'm a Computer Science major at Brigham Young University learning C, C++, Java, and Python!
+Hi, I’m @GabrielHollberg, I'm a Computer Science major at Brigham Young University learning Web Development, C, C++, Java, and Python!
 
 gthollberg@gmail.com
 
