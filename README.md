@@ -1,4 +1,4 @@
-Hi, I’m @GabrielHollberg, I'm a Computer Science major at Brigham Young University learning about Web Development, Object-oriented Programming, and Computer Systems! Check out my website at https://soundstorm.dev/
+Computer Science major at Brigham Young University learning about Web Development, Object-oriented Programming, and Computer Systems! Check out my website at https://soundstorm.dev/
 
 gthollberg@gmail.com
 
